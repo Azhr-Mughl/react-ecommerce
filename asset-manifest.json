@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Azhr-Mughl/react-ecommerce/static/css/main.ea64764a.css",
+    "main.js": "/Azhr-Mughl/react-ecommerce/static/js/main.054cd25d.js",
+    "static/js/787.6200b548.chunk.js": "/Azhr-Mughl/react-ecommerce/static/js/787.6200b548.chunk.js",
+    "static/media/prod-3_prev_ui.png": "/Azhr-Mughl/react-ecommerce/static/media/prod-3_prev_ui.6b4dd121db10674ce672.png",
+    "static/media/prod-1_prev_ui.png": "/Azhr-Mughl/react-ecommerce/static/media/prod-1_prev_ui.e4d0b1f38c1fe5aef237.png",
+    "static/media/prod-5_prev_ui.png": "/Azhr-Mughl/react-ecommerce/static/media/prod-5_prev_ui.0b1f192568ff48847707.png",
+    "static/media/prod-4_prev_ui.png": "/Azhr-Mughl/react-ecommerce/static/media/prod-4_prev_ui.42052e59b34e2c877127.png",
+    "static/media/prod-2_prev_ui.png": "/Azhr-Mughl/react-ecommerce/static/media/prod-2_prev_ui.a6d44a974ceade40e674.png",
+    "static/media/insta-5.png": "/Azhr-Mughl/react-ecommerce/static/media/insta-5.8ba81804b64ea4eff2de.png",
+    "static/media/prod-6_prev_ui.png": "/Azhr-Mughl/react-ecommerce/static/media/prod-6_prev_ui.f31cafe07310737786f4.png",
+    "static/media/insta-3.png": "/Azhr-Mughl/react-ecommerce/static/media/insta-3.afd5efed151204cd6501.png",
+    "static/media/insta-2.png": "/Azhr-Mughl/react-ecommerce/static/media/insta-2.8736679a2241a6131948.png",
+    "static/media/insta-1.png": "/Azhr-Mughl/react-ecommerce/static/media/insta-1.7a0fbc7d0d3e8d05360f.png",
+    "static/media/insta-4.png": "/Azhr-Mughl/react-ecommerce/static/media/insta-4.46e139b9c24938fa3f34.png",
+    "index.html": "/Azhr-Mughl/react-ecommerce/index.html",
+    "static/media/loader.svg": "/Azhr-Mughl/react-ecommerce/static/media/loader.7327d59ecb1dafddf456c765ee6eba63.svg",
+    "static/media/angle-down.svg": "/Azhr-Mughl/react-ecommerce/static/media/angle-down.38f7a2d4095a6d9dc5adc2d152b02105.svg",
+    "static/media/angle-up.svg": "/Azhr-Mughl/react-ecommerce/static/media/angle-up.da3b4342c3cdc209487a6201d3f69f4b.svg",
+    "static/media/line-horizontal.svg": "/Azhr-Mughl/react-ecommerce/static/media/line-horizontal.1047889ef578a2233a1c344a67acc4b0.svg",
+    "main.ea64764a.css.map": "/Azhr-Mughl/react-ecommerce/static/css/main.ea64764a.css.map",
+    "main.054cd25d.js.map": "/Azhr-Mughl/react-ecommerce/static/js/main.054cd25d.js.map",
+    "787.6200b548.chunk.js.map": "/Azhr-Mughl/react-ecommerce/static/js/787.6200b548.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea64764a.css",
+    "static/js/main.054cd25d.js"
+  ]
+}
